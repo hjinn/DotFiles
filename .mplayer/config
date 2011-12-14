@@ -1,0 +1,11 @@
+# Write your default config options here!
+#vo=vdpau
+#vc=ffh264vdpau,ffmpeg12vdpau,ffwmv3vdpau,ffvc1vdpau
+lavdopts="skiploopfilter=all:fast=1:threads=2"
+cache=5000
+ao=alsa
+font=Eunjin
+subcp=cp949
+softvol=1
+softvol-max=200
+font_encoding=unicode

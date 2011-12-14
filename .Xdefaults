@@ -1,0 +1,5 @@
+*background: #333333
+*foreground: #AAAAAA
+Emacs.cursorColor: #AAAAAA
+Emacs.region.attributeBackground: #5555AA
+!Emacs.primary-selection.attributeBackground: #FF0000
